@@ -1,4 +1,4 @@
-package com.example.travelapp.ui.features
+package com.example.dicodingcompose
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background

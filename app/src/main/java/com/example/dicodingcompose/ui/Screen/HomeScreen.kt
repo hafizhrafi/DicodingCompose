@@ -1,4 +1,4 @@
-package com.example.dicodingcompose.ui.Screen
+package com.example.dicodingcompose
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Column
