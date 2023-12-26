@@ -12,6 +12,9 @@ import androidx.core.view.WindowCompat
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
+import com.example.dicodingcompose.ui.Screen.DetailScreen
+import com.example.dicodingcompose.ui.Screen.HomeScreen
+import com.example.dicodingcompose.ui.Screen.ProfileScreen
 import com.example.dicodingcompose.ui.theme.DicodingComposeTheme
 import com.google.accompanist.insets.ProvideWindowInsets
 

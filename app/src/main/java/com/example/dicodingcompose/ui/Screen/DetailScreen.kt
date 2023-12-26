@@ -1,4 +1,4 @@
-package com.example.dicodingcompose
+package com.example.dicodingcompose.ui.Screen
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
